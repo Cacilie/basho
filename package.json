@@ -1,0 +1,22 @@
+{
+  "name": "basho",
+  "version": "1.0.0",
+  "description": "Minimalist Zen CLI word processor.",
+  "type": "module",
+  "bin": {
+    "basho": "./bin/basho.js"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "keywords": [
+    "zen",
+    "cli",
+    "word-processor",
+    "editor",
+    "minimalist",
+    "basho"
+  ],
+  "author": "Edgar Antonio Arroyo Sanchez",
+  "license": "MIT"
+}
