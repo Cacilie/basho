@@ -19,10 +19,10 @@ Basho is a minimalist, distraction-free command-line word processor built with N
 
 ## Installation
 
-Install globally using npm:
+Install globally from npm:
 
 ```bash
-npm install -g .
+npm install -g @cacilie/basho
 ```
 
 ---
